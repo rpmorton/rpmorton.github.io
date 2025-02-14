@@ -22,6 +22,15 @@ main:
     
   - title: "CV"
     url: /files/Morton_Russell_CV.pdf
+
+   - title: "Research"
+    url: /research/
+    
+ -title: "Policy"
+   url: /policy/
+
+   -title: "Teaching"
+   url: /teaching/
     
   #- title: "Guide"
    # url: /markdown/
