@@ -27,10 +27,10 @@ main:
     url: /research/
     
   - title: "Policy"
-    url: /research/
+    url: /policy/
 
   - title: "Teaching"
-    url: /research/
+    url: /teaching/
     
   #- title: "Guide"
    # url: /markdown/
