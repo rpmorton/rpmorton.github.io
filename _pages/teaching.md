@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-## At Univeristy of Rochester
+## At University of Rochester
 
 Labor & Development (guest lecture): Winter 2025
 
