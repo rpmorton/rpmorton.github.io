@@ -11,4 +11,6 @@ I am a Postdoctoral Associate at [Yale University at the Economic Growth Center 
 
 Starting July 2025, I will be an Assistant Professor of Economics at the [University of Rochester (Simon Business School)](https://simon.rochester.edu/).
 
-Email: russell.morton@yale.edu
+Email: [russell.morton@yale.edu](mailto:russell.morton@yale.edu)
+
+Other pages: [Yale Economic Growth Center](https://egc.yale.edu/people/russell-morton)
