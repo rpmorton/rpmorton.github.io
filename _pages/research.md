@@ -14,3 +14,4 @@ This paper examines creation and distribution of surplus from global value chain
 
 ### Quality Incentives and Upgrading in Uganda’s Coffee Supply Chain (_with [Jie Bai](https://sites.google.com/site/jiebaiecon/home), [Lauren Falcao Bergquist](https://sites.google.com/site/laurenfbergquist), [Ameet Morjaria](https://sites.google.com/site/ameetmorjaria), and Yulu Tang_)
 
+### Quality Incentives and Upgrading in Uganda’s Coffee Supply Chain (_with [Jie Bai](https://sites.google.com/site/jiebaiecon/home), [Lauren Falcao Bergquist](https://sites.google.com/site/laurenfbergquist), [Ameet Morjaria](https://sites.google.com/site/ameetmorjaria), and [Yulu Tang](https://sites.google.com/view/yulutang)_)
