@@ -8,7 +8,7 @@ author_profile: true
 
 Labor & Development (guest lecture): Winter 2025
 
-## At University of Michigan:
+## At University of Michigan
 
 Graduate Student Mentor (~ Economics Department Head TA): Fall 2021, Winter 2022, Fall 2022, Winter 2023
 
