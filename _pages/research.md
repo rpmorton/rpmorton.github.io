@@ -19,6 +19,6 @@ This paper examines creation and distribution of surplus from global value chain
 
 ### Organization of Production and Service Quality in Ugandan Informal Transit (_with [Yulu Tang](https://sites.google.com/view/yulutang)_)
 
-### The Supply and Demand of Bank Loans to Agri-SMEs in Africa (_with [Mohamed Abouaziza](https://sites.google.com/view/mohamed-abouaziza), [Vittorio Bassi](http://www.vittoriobassi.com/), [Lorenzo Casaburi](https://www.econ.uzh.ch/en/people/faculty/casaburi.html), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/), [Rania Nasir](https://www.theigc.org/people/rania-nasir)_) 
+### The Supply and Demand of Bank Loans to Agri-SMEs in Africa (_with [Mohamed Abouaziza](https://sites.google.com/view/mohamed-abouaziza), [Vittorio Bassi](http://www.vittoriobassi.com/), [Lorenzo Casaburi](https://www.econ.uzh.ch/en/people/faculty/casaburi.html), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/), and [Rania Nasir](https://www.theigc.org/people/rania-nasir)_) 
 
 
