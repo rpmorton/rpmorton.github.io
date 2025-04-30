@@ -13,3 +13,12 @@ This paper examines creation and distribution of surplus from global value chain
 ## Works in Progress 
 
 ### Quality Incentives and Upgrading in Uganda’s Coffee Supply Chain (_with [Jie Bai](https://sites.google.com/site/jiebaiecon/home), [Lauren Falcao Bergquist](https://sites.google.com/site/laurenfbergquist), [Ameet Morjaria](https://sites.google.com/site/ameetmorjaria), and [Yulu Tang](https://sites.google.com/view/yulutang)_)
+
+
+### Contracting Frictions and Supply Chain Efficiency in Kenyan Agricultural Goods  (_with [Elenaor Wiseman](https://www.eleanorwiseman.com/)_) 
+
+### Organization of Production and Service Quality in Ugandan Informal Transit (_with [Yulu Tang](https://sites.google.com/view/yulutang)_)
+
+### The Supply and Demand of Bank Loans to Agri-SMEs in Africa (_with [Mohamed Abouaziza](https://sites.google.com/view/mohamed-abouaziza), [Vittorio Bassi](http://www.vittoriobassi.com/), [Lorenzo Casaburi](https://www.econ.uzh.ch/en/people/faculty/casaburi.html), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/), [Rania Nasir](https://www.theigc.org/people/rania-nasir) _) 
+
+
