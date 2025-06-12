@@ -13,4 +13,4 @@ Starting July 2025, I will be an Assistant Professor of Economics at the [Univer
 
 Email: <a href="mailto:russell.morton@yale.edu">russell.morton@yale.edu</a>, <a href="mailto:russell.morton@rochester.edu">russell.morton@rochester.edu</a>
 
-Other pages: [Rochester Simon Faculty](https://platform.simon.rochester.edu/faculty/russell-morton),[Yale Economic Growth Center](https://egc.yale.edu/people/russell-morton)
+Other pages: [Rochester Simon Faculty](https://platform.simon.rochester.edu/faculty/russell-morton), [Yale Economic Growth Center](https://egc.yale.edu/people/russell-morton)
