@@ -7,10 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Associate at [Yale University at the Economic Growth Center (Markets and Development Initiative)](https://egc.yale.edu/initiatives/markets-and-development). My primary research interests are in development economics and industrial organization, with a secondary focus on organizational economics.
+I am an Assistant Professor of Economics at the [University of Rochester (Simon Business School)](https://simon.rochester.edu/). My primary research interests are in development economics and industrial organization, with a secondary focus on organizational economics.
 
-Starting July 2025, I will be an Assistant Professor of Economics at the [University of Rochester (Simon Business School)](https://simon.rochester.edu/).
+From 2024-2025, I was a Postdoctoral Associate at [Yale University at the Economic Growth Center (Markets and Development Initiative)](https://egc.yale.edu/initiatives/markets-and-development). 
 
-Email: <a href="mailto:russell.morton@yale.edu">russell.morton@yale.edu</a>, <a href="mailto:russell.morton@rochester.edu">russell.morton@rochester.edu</a>
+Starting July 2025, I will be 
+Email: <a href="mailto:russell.morton@rochester.edu">russell.morton@rochester.edu</a>
 
 Other pages: [Rochester Simon Faculty](https://platform.simon.rochester.edu/faculty/russell-morton), [Yale Economic Growth Center](https://egc.yale.edu/people/russell-morton)
