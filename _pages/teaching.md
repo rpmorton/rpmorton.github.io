@@ -6,6 +6,7 @@ author_profile: true
 ---
 ## University of Rochester
 
+Managerial Economics: Fall 2025
 Labor & Development (guest lecture): Winter 2025
 
 ## University of Michigan
