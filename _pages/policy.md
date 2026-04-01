@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## VoxDev
 
-### [Captive Suppliers? What low supplier prices really mean in global supply chains] (https://voxdev.org/topic/firms/captive-suppliers-what-low-supplier-prices-really-mean-global-supply-chains) 
+### [Captive Suppliers? What low supplier prices really mean in global supply chains](https://voxdev.org/topic/firms/captive-suppliers-what-low-supplier-prices-really-mean-global-supply-chains) 
 
 ## International Growth Center
 
