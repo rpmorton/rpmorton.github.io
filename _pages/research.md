@@ -6,19 +6,33 @@ author_profile: true
 ---
 ## Working Papers
 
+
 ### [Value Creation and Value Capture in Indian Garment Sector Bargaining](https://drive.google.com/file/d/1SpxGm7bKFBeSrq-szBUWVIQKxTBr8SeM/view?usp=drive_link)
+
 
 Low prices paid by large exporters to suppliers in low- and middle-income countries raise concerns that gains from exporting are unequally distributed. I study how input prices reflect two distinct forms of buyer power arising from buyers' responses to frictions in input and supporting markets. Buyer power over surplus creation reflects the buyer's retention of surplus created when vertical contracts mitigate frictions, such as by providing quantity assurance or trade credit when external insurance or credit markets function poorly. Buyer power from surplus capture reflects the buyer's appropriation of pre-existing rents through replacement threats enabled by partial vertical integration, shifting rents without increasing agreement surplus. Distinguishing between these two forms of buyer power matters because of their differing implications for efficiency, distribution, and policy. To quantify their effects, I build and estimate a structural bargaining model using proprietary data on the universe of fabric purchases by a large Indian garment manufacturer. Buyer power over surplus creation, not surplus capture, explains observed discounts; the buyer retains ~60% of created surplus.
 		
 
+
+### [Quality Upgrading in Low- and Middle-Income Country Agricultural Supply Chains](https://drive.google.com/file/d/1qo5S0Bbad6U2wY3rKloHUPPECAGDCPQC/view?usp=drive_link) (_with [Shresth Garg](https://shresth-garg.github.io/)_)
+
+We review theory and evidence on quality upgrading in agricultural supply chains in low- and middle-income countries. A simple model distinguishes three explanations for low-quality production: farmers' upgrading costs, end-customer demand for quality, and the transmission of quality incentives through intermediaries. The evidence identifies limited transmission of incentives to farmers as a recurring barrier to upgrading. We examine how buyer power, contracting frictions, and transport costs shape this transmission and discuss implications for policy and future research.
+
 ## Works in Progress 
+
 
 ### Quality Incentives and Upgrading along Supply Chains: Experimental Evidence from Uganda (_with [Jie Bai](https://sites.google.com/site/jiebaiecon/home), [Lauren Falcao Bergquist](https://sites.google.com/site/laurenfbergquist), [Ameet Morjaria](https://sites.google.com/site/ameetmorjaria), and [Yulu Tang](https://sites.google.com/view/yulutang)_)
 
 
+
+
 ### Contracting Frictions and Supply Chain Efficiency in Kenyan Agricultural Goods  (_with [Eleanor Wiseman](https://www.eleanorwiseman.com/) and Lara Wulandari_) 
+
 
 ### Organization of Production and Service Quality in Ugandan Informal Transit (_with [Yulu Tang](https://sites.google.com/view/yulutang)_)
 
+
 ### The Supply and Demand of Bank Loans to Agri-SMEs in Africa (_with [Mohamed Abouaziza](https://sites.google.com/view/mohamed-abouaziza), [Vittorio Bassi](http://www.vittoriobassi.com/), [Lorenzo Casaburi](https://www.econ.uzh.ch/en/people/faculty/casaburi.html), [Rocco Macchiavello](https://sites.google.com/site/roccomacchiavello/), and [Rania Nasir](https://www.theigc.org/people/rania-nasir)_) 
+
+
 
